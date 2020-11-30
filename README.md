@@ -1,4 +1,4 @@
-# raindetection
+# rain_detection
 Rain Image Database Link:
 
 https://drive.google.com/drive/folders/1ate7hQgNJcvAL4Mmgf0GVqf2JHRfbGo-?usp=sharing
