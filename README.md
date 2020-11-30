@@ -1,4 +1,4 @@
 # raindetection
-資料庫網址
+#Rain Image Database Link:
 https://drive.google.com/drive/folders/1ate7hQgNJcvAL4Mmgf0GVqf2JHRfbGo-?usp=sharing
-如有問題請聯繫 Email : t107568067@ntut.org.tw
+#Please feel free to contact me if you have any questions. Email : t107568067@ntut.org.tw
